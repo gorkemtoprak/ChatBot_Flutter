@@ -98,7 +98,7 @@ class _HomeViewState extends State<HomeView> {
       );
     });
 
-    dialogFlowtter.projectId = "your-dialogflow-project-id";
+    dialogFlowtter.projectId = 'your-dialogflow-project-id';
 
     DetectIntentResponse response = await dialogFlowtter.detectIntent(
       queryInput: QueryInput(text: TextInput(text: text)),

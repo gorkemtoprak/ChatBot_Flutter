@@ -1,16 +1,13 @@
-# flutter_dialogflow
+# Chatbot Flutter
 
-A new Flutter project.
+Simple chatbot built using with Dialogflow and Flutter. 
 
-## Getting Started
+You can read an article about this project, which is on medium: https://medium.com/p/
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+The screenshot of the chatbot I made in another project is given below.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="screenshot/chatbot.png" width="20% height="50">                                                                                              
+</p>
